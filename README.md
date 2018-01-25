@@ -2,6 +2,7 @@
 
 ### Trabalho da disciplina de Laboratório de Programação - IFCE Campus Maracanaú
 #### Profª: Shara Alves
+#### Alunos: Henrique Cid // Ivanov de Almeida
 
 > Construa um programa em C para um jogo que tem um tabuleiro e uma peça '*' que pode ser
 > movimentada para cima (tecla W), para baixo (tecla S), esquerda (tecla A) e direita (tecla D). Além
