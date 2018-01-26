@@ -1,6 +1,6 @@
 // prototipos das funcoes
 #define DIM 4
-
+ 
 void inicializar(char tabuleiro[][DIM]);
 void imprimir(char tabuleiro[][DIM]);
 void movW(char tabuleiro[][DIM]);
