@@ -1,4 +1,4 @@
-// funcoes 
+//  funcoes 
 #define DIM 4
 
 void inicializar(char tabuleiro[][DIM]){
