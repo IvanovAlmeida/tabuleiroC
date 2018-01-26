@@ -48,8 +48,8 @@ int main(){
 				printf("Teclas permitidas: W(Cima), S(Baixo), A(Esquerda), D(Direita), Q(Sair).\n");
 		}		
 		
-	}
-
+	} 
+ 
 	return 0;
 }
 
